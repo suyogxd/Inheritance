@@ -15,7 +15,7 @@ heroes.remove('black panther')
 heroes.insert(3,'black panther')
 print(heroes)
 print(heroes[1:3])
-heroes[1:3] = ["doctor strange"]
+heroes[1:3] = ["wakanda"]
 print(heroes)
 heroes.sort()
 print(heroes)
